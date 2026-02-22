@@ -24,11 +24,6 @@ This dashboard provides a comprehensive analysis of:
 
 The goal of this project is to simulate real-world retail analytics and enable data-driven decision-making.
 
-📷 Dashboard Preview
-<img width="100%" alt="Blinkit Dashboard" src="assets/dashboard-preview.png">
-
-(Upload your screenshot inside an assets folder and rename accordingly.)
-
 🔍 Key Insights
 💰 Sales Metrics
 
